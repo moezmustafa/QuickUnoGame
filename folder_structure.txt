@@ -6,7 +6,7 @@ uno_game/
 │   ├── __init__.py
 │   ├── game.py
 │   ├── player.py
-│   └── card.py
+│   └── card.p
 │
 └── tests/
     ├── __init__.py
