@@ -4,7 +4,7 @@ uno_game/
 │
 ├── game/
 │   ├── __init__.py
-│   ├── game.py
+│   ├── games.py
 │   ├── player.py
 │   └── card.py
 │
