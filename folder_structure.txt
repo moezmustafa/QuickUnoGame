@@ -1,0 +1,15 @@
+uno_game/
+│
+├── main.py
+│
+├── game/
+│   ├── __init__.py
+│   ├── game.py
+│   ├── player.py
+│   └── card.py
+│
+└── tests/
+    ├── __init__.py
+    ├── test_game.py
+    ├── test_player.py
+    └── test_card.py

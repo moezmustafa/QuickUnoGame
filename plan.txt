@@ -4,6 +4,8 @@ little logic
 graphics 
 mouse or keyboard 
 multiplayer over local network
+added that folder structure 
+
 
 
 github install 
