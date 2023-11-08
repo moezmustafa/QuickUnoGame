@@ -1,0 +1,8 @@
+window
+cards 
+little logic
+graphics 
+mouse or keyboard 
+multiplayer over local network
+
+
